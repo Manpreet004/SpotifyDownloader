@@ -1,5 +1,4 @@
 # React + Vite
-
 Spotify Song Downloader 🎵
 A React-based web application that allows users to input a Spotify song URL and download the song using an open-source API. The app leverages RapidAPI for implementing the downloading feature.
 
@@ -12,8 +11,6 @@ A React-based web application that allows users to input a Spotify song URL and 
 Follow these steps to set up and run the application:
 
 Clone the Repository:
-  
- 
 git clone <repository-url>
 Navigate to the Project Directory:
   
@@ -41,7 +38,6 @@ Enjoy Your Music Offline!
 This app uses an open-source song downloader API from RapidAPI. Configure your API key in the .env file:
 
 env
- 
 REACT_APP_RAPIDAPI_KEY=your_rapidapi_key_here
 🛠 Tech Stack
 React: Frontend framework for UI development.
